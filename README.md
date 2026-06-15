@@ -75,11 +75,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![MobX](https://img.shields.io/badge/MobX-FF9955?style=flat-square&logo=mobx&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### Инструменты и бэкенд
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
@@ -102,24 +104,22 @@
 |--------|----------|------|
 | **[NIDS](https://github.com/tema64378/nids)** | Система обнаружения сетевых вторжений на ML: захват трафика → признаки потоков → RandomForest на CICIDS-2017 → API, живой дашборд и Telegram-алерты | `Python` `scikit-learn` `scapy` `FastAPI` `Streamlit` |
 
-### 💻 Frontend
+### 🌐 Fullstack / Web
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| **[media_rso](https://github.com/tema64378/media_rso)** | Медиа-платформа для РСО (Российские студенческие отряды) | `TypeScript` `React` |
-| **[CodeNovSU](https://github.com/tema64378/CodeNovSU)** | Проект для сообщества разработчиков НовГУ | `TypeScript` |
-| **[uchi_ru](https://github.com/tema64378/uchi_ru)** | Образовательная веб-платформа | `TypeScript` |
-| **[Site_trud_krut](https://github.com/tema64378/Site_trud_krut)** | Веб-проект на TypeScript | `TypeScript` |
-| **[FieldMind](https://github.com/tema64378/FieldMind)** | Веб-приложение на JavaScript | `JavaScript` |
-| **[chess](https://github.com/tema64378/chess)** | Браузерные шахматы | `JavaScript` `CSS` |
+| **[CodeNovSU](https://github.com/tema64378/CodeNovSU)** | Образовательная платформа для обучения программированию: треки C++/Python/JS, отдельные ветки по AI и кибербезу, браузерный редактор кода и AI-ассистент с уровнями подсказок | `TypeScript` `React` `Backend API` |
+| **[uchi_ru](https://github.com/tema64378/uchi_ru)** | «Дракоша — Звёздный питомец» — образовательная веб-игра для детей 6–11 лет с фиджитал-механикой и AI-проверкой выполнения заданий | `TypeScript` `React` `Node.js` `Anthropic API` |
+| **[media_rso](https://github.com/tema64378/media_rso)** | Платформа медиаконкурса РСО (Российские студенческие отряды) | `Rust (Axum)` `React` `Vite` `MySQL` |
+| **[FieldMind](https://github.com/tema64378/FieldMind)** | Система управления спортивным комплексом: запись, расписание, управление данными | `Rust` `JavaScript` `MySQL` |
+| **[Site_trud_krut](https://github.com/tema64378/Site_trud_krut)** | Сайт для РСО на Next.js (App Router) | `Next.js` `React` `TypeScript` |
 
-### 🤖 Прочее
+### 🎮 Pet-проекты
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| **[todo-bot](https://github.com/tema64378/todo-bot)** | Telegram-бот для управления задачами | `Python` |
-
-> 💡 Описания проектов — черновые. Поправь под то, что реально внутри каждого репо.
+| **[chess](https://github.com/tema64378/chess)** | Браузерные шахматы на чистом фронтенде | `JavaScript` `HTML` `CSS` |
+| **[todo-bot](https://github.com/tema64378/todo-bot)** | Telegram-бот для управления задачами с API и деплоем на Railway | `Python` |
 
 ---
 
