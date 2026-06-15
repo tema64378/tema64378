@@ -10,8 +10,15 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:8b5cf6&height=200&section=header&text=%D0%AF%D0%BA%D0%BE%D0%B2%D0%BB%D0%B5%D0%B2%20%D0%90%D1%80%D1%82%D1%91%D0%BC&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;React+%E2%80%A2+TypeScript+%E2%80%A2+MobX;%D0%9F%D0%BE%D0%B3%D1%80%D1%83%D0%B6%D0%B0%D1%8E%D1%81%D1%8C+%D0%B2+%D0%BF%D1%80%D0%BE%D0%B4%D1%83%D0%BA%D1%82%2C+%D0%B0+%D0%BD%D0%B5+%D0%B2+%D1%82%D0%B8%D0%BA%D0%B5%D1%82%D1%8B" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend%20%26%20Fullstack%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA;React%20%C2%B7%20TypeScript%20%C2%B7%20Node.js;ML%20%26%20Data%20Science%20%D0%BD%D0%B0%20Python;%D0%9A%D0%B8%D0%B1%D0%B5%D1%80%D0%B1%D0%B5%D0%B7%D0%BE%D0%BF%D0%B0%D1%81%D0%BD%D0%BE%D1%81%D1%82%D1%8C%20%C2%B7%20%D0%B7%D0%B0%D1%89%D0%B8%D1%82%D0%BD%D1%8B%D0%B5%20%D0%B8%D0%BD%D1%81%D1%82%D1%80%D1%83%D0%BC%D0%B5%D0%BD%D1%82%D1%8B" alt="Typing SVG" />
 </a>
+
+<p>
+  <img src="https://img.shields.io/badge/Frontend-6366f1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fullstack-8b5cf6?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML%20%2F%20Data%20Science-a855f7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Cybersecurity-7c3aed?style=flat-square" />
+</p>
 
 <p>
   <a href="mailto:tema643789@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -26,14 +33,27 @@
 
 ## 👋 Обо мне
 
-Frontend-разработчик. Основной стек — **TypeScript, React, MobX**. Люблю формат,
-где можно глубоко погружаться в продукт: понимать, **зачем** нужна фича, а не
-просто закрывать тикеты.
+Разработчик с фокусом на **Frontend и Fullstack**. Основной стек —
+**TypeScript, React, MobX**, на бэкенде — **Node.js, REST API, MySQL**. Люблю
+формат, где можно глубоко погружаться в продукт: понимать, **зачем** нужна
+фича, а не просто закрывать тикеты.
 
-- 🎯 Пишу адаптивные, доступные (a11y) и производительные интерфейсы
+Параллельно активно развиваюсь в **ML / Data Science** и **кибербезопасности** —
+на Python собираю pet-проекты (см. раздел ниже): от анализа данных до системы
+обнаружения сетевых вторжений.
+
+**Чем занимаюсь:**
+
+| Направление | Стек | Уровень |
+|-------------|------|---------|
+| 💻 **Frontend** | React, TypeScript, MobX, React Native | основной опыт |
+| 🔗 **Fullstack** | Node.js, REST API, MySQL | уверенно |
+| 🤖 **ML / Data Science** | Python, scikit-learn, pandas | развиваюсь, pet-проекты |
+| 🛡️ **Кибербезопасность** | защитные ML-инструменты, NIDS | развиваюсь, pet-проекты |
+
+- 🎯 Адаптивные, доступные (a11y) и производительные интерфейсы
 - 🧪 Юнит-тесты, код-ревью, настройка CI/CD-пайплайнов
 - 🤝 Плотно работаю с дизайнерами при внедрении UX/UI-решений
-- 🛡️ Развиваюсь в сторону ML и кибербезопасности (см. pet-проекты ниже)
 - 📚 Студент НовГУ им. Ярослава Мудрого — Прикладная математика и информатика
 - 🌍 English — B2
 
