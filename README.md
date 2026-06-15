@@ -118,8 +118,8 @@
 
 | Проект | Описание | Стек |
 |--------|----------|------|
-| **[chess](https://github.com/tema64378/chess)** | Браузерные шахматы на чистом фронтенде | `JavaScript` `HTML` `CSS` |
-| **[todo-bot](https://github.com/tema64378/todo-bot)** | Telegram-бот для управления задачами с API и деплоем на Railway | `Python` |
+| **[chess](https://github.com/tema64378/chess)** | Адаптивный промо-лендинг шахматного клуба «Клуб четырёх коней» (по мотивам «12 стульев») на чистом HTML/CSS/JS с анимациями | `JavaScript` `HTML` `CSS` |
+| **[todo-bot](https://github.com/tema64378/todo-bot)** | Telegram-менеджер задач: приоритеты, категории, дедлайны, повторы, напоминания (APScheduler), экспорт в CSV + FastAPI-вебчасть, деплой на Railway | `Python` `FastAPI` |
 
 ---
 
