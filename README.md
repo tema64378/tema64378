@@ -105,6 +105,7 @@
 | Проект | Описание | Стек |
 |--------|----------|------|
 | **[NIDS](https://github.com/tema64378/nids)** | Система обнаружения сетевых вторжений на ML: захват трафика → признаки потоков → RandomForest на CICIDS-2017 → API, живой дашборд и Telegram-алерты | `Python` `scikit-learn` `scapy` `FastAPI` `Streamlit` |
+| **[Web Security Scanner](https://github.com/tema64378/websec-scanner)** | Пассивный аудит веб-безопасности: заголовки, TLS, cookies, CORS, утечки версий → оценка A–F с объяснением простым языком, HTML-отчёт | `Python` `requests` `rich` `FastAPI` |
 
 ### 🌐 Fullstack / Web
 
